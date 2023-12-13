@@ -2,6 +2,13 @@ body{
     background-color: azure;
 }
 
+header {
+    box-sizing: border-box;
+    align-items: center;
+    position: relative;
+    top: 20px;
+}
+
 h1 {
     font-size: 100px;
 }
@@ -17,4 +24,12 @@ thead{
 
 .table_section h2{
     color: blueviolet;
+}
+
+.table_section{
+    align-items: center;
+}
+
+table{
+    border: black;
 }
