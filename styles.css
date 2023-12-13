@@ -1,0 +1,20 @@
+body{
+    background-color: azure;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+.tag_properties{
+    font-family: monospace;
+}
+
+thead{
+    font-weight: bold;
+    background-color: blueviolet;
+}
+
+.table_section h2{
+    color: blueviolet;
+}
