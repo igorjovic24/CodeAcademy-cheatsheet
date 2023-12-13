@@ -34,3 +34,7 @@ thead{
 table{
     border: black;
 }
+
+td {
+    padding: 5px;
+}
