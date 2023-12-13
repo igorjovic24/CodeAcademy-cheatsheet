@@ -15,6 +15,7 @@ h1 {
 
 .tag_properties{
     font-family: monospace;
+    background-color: gray;
 }
 
 thead{
