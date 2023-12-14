@@ -29,7 +29,7 @@ thead{
 }
 
 .table_section{
-    display: block;
+    display: flex;
 }
 
 table{
@@ -39,5 +39,5 @@ table{
 }
 
 td {
-    padding: 5px;
+    padding: 15px;
 }
