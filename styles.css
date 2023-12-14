@@ -4,9 +4,10 @@ body{
 
 header {
     box-sizing: border-box;
-    align-items: center;
+    text-align: center;
     position: relative;
     top: 20px;
+    display: block;
 }
 
 h1 {
@@ -28,11 +29,12 @@ thead{
 }
 
 .table_section{
-    align-items: center;
+    display: block;
 }
 
 table{
     border: black;
+
 }
 
 td {
