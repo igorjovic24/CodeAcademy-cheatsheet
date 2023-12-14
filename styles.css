@@ -30,12 +30,11 @@ thead{
 
 .table_section{
     display: table;
+    margin: 0 auto;
 }
 
 table{
-    border: black;
-    border-width: thick;
-
+    border: 2px solid black;
 }
 
 td {
